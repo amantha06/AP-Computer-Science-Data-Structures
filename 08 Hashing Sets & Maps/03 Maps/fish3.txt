@@ -1,0 +1,16 @@
+"One fish
+two fish
+     Red fish
+,,,,Blue fish."
+
+"Black fish"
+     Blue fish
+. . . . Old fish
+New fish.
+
+?????This one has
+?    a little star.
+
+This one" has a little car?
+!Say! What a lot
+!!!!!of fish there are.

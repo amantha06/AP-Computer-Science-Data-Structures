@@ -1,0 +1,9 @@
+8 8
+WWWWWWWW
+W....W.W
+WW.WW..W
+W....W.W
+W.W.WW.E
+S.W.WW.W
+WW.....W
+WWWWWWWW
